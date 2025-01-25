@@ -21,6 +21,7 @@ a {
   font-weight: normal;
   text-decoration: none; 
   color:#fe00e7;
+  margin-left: 4rem;
 }
 a:focus {
   outline: thin dotted;
